@@ -1,0 +1,162 @@
+
+/* FOOTER */
+
+.footer {
+	/* height: 276px; */
+	background: #010202;
+}
+
+.footer-content {
+	padding-top: 36px;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 30px;
+	box-sizing: border-box;
+}
+
+.footer-info {
+	display: flex;
+    justify-content: space-between;
+    width: 100%;
+	/* flex-direction: row-reverse; */
+}
+
+.footer-right {
+	max-width: 410px;
+	margin-right: 120px;
+}
+
+.footer-right__text {
+	margin-top: 42px;
+	font-family: 'Geometria';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 125%;
+	/* color: #FFFFFF; */
+	color: rgba(255, 255, 255, .7);
+	
+}
+
+.footer-undertext {
+	font-family: 'Gotham';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 27px;
+	line-height: 108%;
+	letter-spacing: -0.01em;
+	text-transform: uppercase;
+	color: rgba(255, 255, 255, 0.19);
+	margin-top: 30px;
+	margin-bottom: 26px;
+}
+
+.footer-logo__img {
+	max-width: 104px;
+}
+
+.footer-logo__img--metrogil {
+	max-width: 153px;
+	width: 100%;
+}
+
+.footer-spacer {
+    height: 14px;
+}
+
+@media (max-width: 1440px) { 
+	.footer-right {
+		margin-right: 60px;
+	}
+
+	.footer-right__text {
+		margin-top: 22px;
+	}
+	.footer-undertext {
+		font-size: 2.53vw;
+	}
+}
+
+@media (max-width: 991px) { 
+	.footer-logo__img {
+		max-width: 82px;
+	}
+}
+
+@media (max-width: 622px) { 
+	.footer-content {
+		flex-direction: column-reverse;
+	}
+    .footer-undertext {
+		letter-spacing: -0.01em;
+		font-size: 6.5vw;
+		width: 100%;
+		max-width: none;
+		margin-top: 0px;
+		text-align: center;
+    }
+    .footer-content {
+        padding-top: 22px;
+    }
+
+	.footer-logo__img {
+		max-width: 62px;
+	}
+	.footer-logo__img--metrogil {
+		max-width: 102px;
+	}
+	.footer-logo__img--gp {
+		max-width: 50px;
+	}
+	.footer-right__text {
+		font-size: 11px;
+	}
+	.footer-info {
+		flex-direction: row-reverse;
+	}
+	.footer-right__text--span {
+		text-decoration: underline;
+	}
+	.footer-right__text--span-1 {
+		opacity: .7;
+	}
+	.footer-right__text--span-2 {
+		text-decoration: underline;
+	}
+	.footer-spacer {
+		height: 12px;
+	}
+}
+
+@media (max-width: 479px) {  
+	.footer-undertext {
+		margin-left: auto;
+		margin-right: auto;
+		text-align: start;
+		/* font-size: 6.6vw; */
+		font-size: 13px;
+	}
+	.footer-logo__img {
+		max-width: 42px;
+	}
+	.footer-logo__img--metrogil {
+		max-width: 88px;
+	}
+	.footer-logo__img--gp {
+		max-width: 50px;
+	}
+	.footer-right__text {
+		font-size: 12px;
+		max-width: 194px;
+	}
+	.footer-right {
+		margin-right: 30px;
+	}
+}
+
+@media (max-width: 372px) {   
+	.footer-undertext {
+		font-size: 13px;
+	}
+}
+

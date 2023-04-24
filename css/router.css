@@ -1,0 +1,106 @@
+.route__text--desk {
+
+}
+
+.route {
+    margin-top: 34px;
+    margin-bottom: 51px;
+}
+
+.route__text {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    color: #7C7C7C;
+}
+.route__text--mob { 
+	display: none;
+}
+
+.route__link {
+	color: #7C7C7C !important;
+	text-decoration: none;
+}
+.route__link:hover {
+	text-decoration: underline;
+}
+.route__span--center {
+	margin-left: 12px;
+	margin-right: 12px;
+	text-transform: uppercase;
+}
+.route__span:first-child {
+	margin-right: 12px;
+	text-transform: uppercase;
+}
+.route__span:last-child {
+	margin-left: 12px;
+}
+
+@media (max-width: 1440px) { 
+
+}
+
+@media (max-width: 1100px) { 
+
+}
+
+
+@media (max-width: 991px) { 
+
+}
+
+@media (max-width: 767px) { 
+	.route__text {
+		font-size: 13px;
+	}
+}
+	
+@media (max-width: 622px) { 
+	.route__text--desk { 
+		display: none;
+	}
+	.route__text--mob { 
+		display: block;
+		padding-left: 18px;
+		background: url('../images/faq/arrow-left-mobile.svg');
+		background-repeat: no-repeat;
+		background-position: 0% 29%;
+		text-decoration: none;
+	}
+	.route {
+		margin-top: 26px;
+		margin-bottom: 30px;
+	}
+}
+
+@media (max-width: 479px) { 
+	.route__text {
+		font-size: 12px;
+	}
+}
+
+
+/* route-for-blog */
+
+.route-for-blog {
+    margin-top: 34px;
+    margin-bottom: 51px;
+}
+
+@media (max-width: 622px) { 
+	.route {
+		margin-top: 26px;
+		margin-bottom: 30px;
+	}
+}
+
+.route-content-wrp {
+
+}
+
+.route-content {
+
+}

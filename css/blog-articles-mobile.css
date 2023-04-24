@@ -1,0 +1,474 @@
+@media (max-width: 1440px) { 
+	.hero__caption {
+		font-size: 45px;
+		max-width: 650px;
+	}
+	.hero-parametrs-item__text {
+		font-size: 18px;
+	}
+	.hero-parametrs-item__img {
+		max-width: 28px;
+	}
+	.articles__text {
+		font-size: 18px;
+	}
+	.articles__caption {
+		font-size: 34px;
+	}
+	.other-item__title {
+		font-size: 24px;
+	}
+	.other__caption {
+		font-size: 50px;
+	}
+	.articles__subtitle--sensitive {
+		font-size: 36px;
+	}
+	.articles__subtitle--pop {
+		font-size: 36px;
+	}
+	.articles-content {
+		width: 100%;
+	}
+}
+
+@media (max-width: 1200px) { 
+	.see-bathroom {
+		margin-top: 50px;
+		flex-direction: column;
+	}
+	.see-bathroom__text {
+		max-width: 100%;
+	}
+	.see-bathroom__link {
+		margin-top: 40px;
+	}
+}
+
+@media (max-width: 1100px) { 
+	.articles-sides--first .left-side {
+		display: none;
+	}
+	.articles-sides--first .right-side {
+		width: 100%;
+	}
+	.other-item__title {
+		font-size: 20px;
+	}
+	.other-item__subtitle {
+		font-size: 13px;
+	}
+	.other__caption {
+		font-size: 45px;
+	}
+	.reference__text {
+		font-size: 13px;
+	}
+	.reference-vertical-line {
+		display: none;
+	}
+	.reference-content {
+		padding-left: 0px;
+	}
+	.articles__subtitle--sensitive {
+		font-size: 32px;
+	}
+	.articles__subtitle--pop {
+		font-size: 32px;
+	}
+	.articles-params {
+		flex-direction: column;
+		margin-top: 48px;
+	}
+	.articles-param {
+		width: 100%;
+		margin-bottom: 41px;
+	}
+	.articles-param__caption {
+		font-size: 26px;
+		margin-bottom: 22px;
+	}
+	.articles-param__text {
+		font-size: 18px;
+	}
+	.articles__subtitle--celebrities {
+		font-size: 30px;
+	}
+	.articles-img-1--celebrities {
+		max-width: 220px;
+	}
+	.articles-img-2--celebrities {
+		max-width: 210px;
+	}
+	.articles-foto-div-2 {
+		margin-top: 40px;
+	}
+}
+
+
+@media (max-width: 991px) { 
+	.hero__caption {
+		font-size: 38px;
+		max-width: 540px;
+	}
+	.hero-parametrs {
+		width: 22%;
+	}
+	.articles__text {
+		font-size: 16px;
+	}
+	.articles__caption {
+		font-size: 28px;
+	}
+	.expert__img {
+		margin-right: 28px;
+		max-width: 191px;
+		max-height: 191px;
+	}
+	.other__caption {
+		font-size: 40px;
+	}
+	.articles__subtitle--sensitive {
+		font-size: 30px;
+	}
+	.articles__subtitle--pop {
+		font-size: 30px;
+	}
+
+}
+
+@media (max-width: 767px) { 
+	.hero-top {
+		flex-direction: column;
+	}
+	.articles-block {
+		padding-top: 32px;
+	}
+	.articles-sides {
+		flex-direction: column;
+	}
+	.articles-images-block {
+		flex-direction: column;
+	}
+	.right-side {
+		width: 100%;
+	}
+	.articles__caption {
+		margin-bottom: 24px;
+	}
+	.articles-space {
+		height: 22px;
+	}
+	.articles-images-block--right {
+		margin-top: 16px;
+	}
+	.expert__img {
+		max-width: 120px;
+		border-radius: 100%;
+	}
+	.expert__text {
+		font-size: 14px;
+		margin-bottom: 8px;
+	}
+	.expert__name {
+		font-family: 'Playfair';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 20px;
+		line-height: 150%;
+		color: #000000;
+	}
+	.expert__profession {
+		font-size: 16px;
+	}
+	.articles-content-wrp {
+		padding-bottom: 129px;
+	}
+	.expert {
+		display: flex;
+		margin-top: 64px;
+	}
+	.other-items {
+		flex-wrap: wrap;
+	}
+	.other-item {
+		width: 48%;
+		margin-bottom: 26px;
+	}
+	.other__caption {
+		font-size: 35px;
+	}
+	.reference-sides {
+		flex-direction: column;
+		padding-right: 20px;
+	}
+	.reference-left {
+		width: 100%;
+		margin-bottom: 24px;
+	}
+	.reference-right {
+		width: 100%;
+		padding-right: 20px;
+    	padding-left: 20px;
+	}
+	.articles__subtitle--sensitive {
+		font-size: 26px;
+	}
+	.articles__subtitle--pop {
+		font-size: 26px;
+	}
+	.articles-img-1 {
+		margin-top: 0px;
+	}
+	.articles__subtitle--celebrities {
+		font-size: 26px;
+	}
+	.see-bathroom__link {
+		max-width: 420px;
+	}
+	.articles__sub-img {
+		font-size: 14px;
+		line-height: 150%;
+		margin-top: 24px;
+		margin-bottom: 24px;
+	}
+}
+	
+@media (max-width: 622px) { 
+	.hero__caption {
+		font-size: 30px;
+		max-width: 460px;
+	}
+	.hero-parametrs {
+		display: flex;
+		width: 100%;
+	}
+	.hero-parametrs-item {
+		margin-right: 16px;
+		margin-bottom: 0px;
+	}
+	.hero-parametrs-item__img {
+		max-width: 28px;
+		flex: 0 0 auto;
+		max-height: 28px;
+	}
+	.hero-main-img {
+		margin-bottom: 34px;
+		width: 100vw;
+		margin-left: 16px;
+		margin-right: 16px;
+		height: 211px;
+	}
+	.hero-top {
+		margin-bottom: 25px;
+	}
+	.articles__caption {
+		font-size: 24px;
+	}
+	.articles-decor-line {
+		margin-top: 20px;
+		margin-bottom: 24px;
+	}
+	.other__caption {
+		font-size: 30px;
+	}
+	.articles-content-wrp {
+		padding-bottom: 58px;
+	}
+	.articles__subtitle--sensitive {
+		font-size: 24px;
+	}
+	.articles__subtitle--pop {
+		font-size: 24px;
+	}
+	.articles-param__caption {
+		font-size: 24px;
+		margin-bottom: 16px;
+	}
+	.articles-param__text {
+		font-size: 16px;
+	}
+	.articles-params {
+		margin-bottom: 64px;
+	}
+	.left-side {
+		width: 100%;
+	}
+	.articles__subtitle--celebrities {
+		font-size: 24px;
+	}
+	.articles-img-2--treatment {
+		margin-top: 60px;
+	}
+	.img-2 {
+        height: 100%;
+    }
+	.articles-img-2--rule {
+		margin-top: 2px;
+		margin-bottom: 10px;
+	}
+	.articles-right-items--knowledge .articles-right-item {
+		width: 100%;
+		max-width: 100%;
+		margin-bottom: 29px;
+	}
+	.articles-right-item__caption {
+		margin-bottom: 6px;
+		font-weight: 400;
+		font-size: 26px;
+		line-height: 150%;
+	}
+	.articles-right-item__text {
+		font-size: 16px;
+		line-height: 150%;
+		letter-spacing: 0.02em;
+	}
+	.articles-sides--margin-bot {
+		margin-bottom: 18px;
+	} 
+	.articles-img-1--travel, .articles-img-2--travel, .articles-img-3--travel {
+		margin-bottom: 24px;
+	}
+	.articles-img-1--enemy {
+		margin-top: 26px;
+	}
+	.articles-img-2--enemy {
+		margin-bottom: 24px;
+	}
+	.articles-img-1--proper {
+		max-width: 440px;
+		margin-top: 6px;
+		margin-bottom: 22px;
+	}
+
+	.articles-img-2--proper {
+		max-width: 470px;
+		margin-top: 22px;
+		margin-bottom: 22px;
+	}
+	.articles-img-1--winter-care {
+		max-width: 470px;
+		margin-top: 22px;
+		margin-bottom: 22px;
+	}
+	.articles-img-2--winter-care {
+		max-width: 210px;
+		margin-top: 6px;
+		margin-bottom: 22px;
+	}
+	.articles-img-3--winter-care {
+		max-width: 470px;
+		margin-top: 22px;
+		margin-bottom: 22px;
+	}
+
+	.articles-img-1--sebo {
+		max-width: 470px;
+		margin-top: 22px;
+		margin-bottom: 22px;
+	}
+	.articles-img-3--sebo {
+		max-width: 420px;
+		margin-top: 22px;
+		margin-bottom: 22px;
+	}
+
+}
+
+@media (max-width: 479px) { 
+	.articles__subtitle--pop {
+		margin-bottom: 18px;
+	}
+	.see-bathroom {
+		margin-top: 0px;
+	}
+	.see-bathroom__link {
+		margin-top: 24px;
+	}
+	.articles-img-2--treatment {
+		margin-top: 20px;
+	}
+	.articles-img-1--knowledge {
+		max-width: 146px;
+	}
+	.articles-img-1--advice {
+		margin-top: 20px;
+		margin-bottom: 12px;
+	}
+	.articles-img-3--advice {
+		width: 100%;
+	}
+	
+	.expert {
+		align-items: center;
+	}
+	.expert__img {
+		margin-right: 16px;
+		max-width: 80px;
+		max-height: 80px;
+	}
+	.expert__name {
+		margin-bottom: 4px;
+	}
+	.expert-text-block {
+		padding-top: 0px;
+	}
+	.other__caption {
+		font-size: 26px;
+	}
+	.reference-content-wrp {
+		padding-bottom: 60px;
+	}
+	.articles-foto-div-2 {
+		padding-right: 0px;
+	}
+	.articles-list {
+		padding-left: 20px;
+		margin-top: 20px;
+    	margin-bottom: 20px;
+	}
+	.articles-img-1--pop {
+		margin-top: 0;
+		margin-bottom: 20px;
+	}
+	.articles-img-2--pop {
+		margin-bottom: 18px;
+	}
+
+	.articles-sides--subtypes {
+		flex-direction: column-reverse;
+	}
+	.subtypes__img {
+		max-width: 125px;
+		margin-right: 0px;
+	}
+
+	.left-side--subtypes {
+		align-items: flex-start;
+		justify-content: flex-start;
+		margin-top: 22px;
+	}
+	.right-side--subtypes {
+		width: 100%;
+	}
+	.articles__caption--subtypes {
+		font-size: 24px;
+		line-height: 130%;
+		margin-bottom: 18px;
+	}
+	.articles-img-1--advice-nut {
+		margin-bottom: 30px;
+	}
+	.articles-img-2--advice-nut {
+		margin-top: 20px;
+	}
+	.reference-left {
+		margin-bottom: 0px;
+	}
+	.reference-left-2 {
+		margin-bottom: 0px;
+	}
+	.articles__sub-img {
+		margin-top: 16px;
+	}
+}

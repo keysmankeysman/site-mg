@@ -1,0 +1,513 @@
+@media (max-width: 1440px) { 
+    .hero__caption {
+        font-size: 50px;
+        max-width: 600px;
+    }
+    .hero__description {
+        font-size: 24px;
+    }
+    .plato__title {
+        font-size: 2vw;
+    }
+    .plato__subtitle {
+        font-size: 1.1vw;
+    }
+    .plato-item {
+        margin-bottom: 2.5vw;
+    }
+    .plato-item-1__bot-text {
+        font-size: 32px;
+        max-width: 370px;
+        margin-left: -185px;
+        bottom: 7vw;
+    }
+
+    .plato-item-1__top-text {
+        font-size: 12px;
+    }
+    .plato-item-2__bot-text {
+        font-size: 32px;
+        max-width: 370px;
+        margin-left: -185px;
+        bottom: 60px;
+    }
+    .plato-item-2__top-text {
+        font-size: 12px;
+    }
+    .plato-item-3__bot-text {
+        font-size: 32px;
+        max-width: 370px;
+        margin-left: -185px;
+        bottom: 7vw;
+    }
+    .route {
+        margin-top: 88px;
+    }
+    .hero-bg-3 {
+        background-position: bottom right;
+        background-size: 47vw;
+    }
+    .hero__caption-3 {
+        font-size: 7.5vw;
+    }
+    .hero-caption-wrp {
+        max-width: 44vw;
+    }
+    .hero__description-3 {
+        font-size: 1.25vw;
+    }
+    .hero-view__img-3 {
+        margin-left: 6vw;
+        max-width: 30vw;
+    }
+    .hero-view-wrp-description-3 {
+        max-width: 26vw;
+    }
+}
+
+@media (max-width: 1250px) { 
+    .hero-btns {
+        flex-direction: column;
+    }
+    .hero__btn-1 {
+        margin-right: 0px;
+        margin-bottom: 14px;
+    }
+}
+
+@media (max-width: 1100px) { 
+    .hero__caption {
+        font-size: 44px;
+        max-width: 510px;
+    }
+    .hero__description {
+        font-size: 22px;
+    }
+    .slider-item-1 {
+        height: 515px;
+    }
+    .hero-content-wrp {
+        height: auto;
+    }
+    .sd {
+        margin-top: 57px;
+    }
+    .hero__caption-2 {
+        font-size: 80px;
+    }
+    .hero__description-2 {
+        font-size: 20px;
+        margin-top: 26px;
+        margin-left: 24px;
+    }
+    .hero-view__img-2 {
+        max-width: 290px;
+        margin-left: 51px;
+        margin-top: 41px;
+    }
+    .hero-view-wrp-description {
+        max-width: 450px;
+    }
+    .hero__caption-3 {
+        margin-bottom: 30px;
+    }
+    .hero-view-wrp-description-3 {
+        margin-top: -8px;
+    }
+    .hero-bg-3 {
+        background-position: 100% 27%;
+        background-size: 42vw;
+    }
+    .hero__text-4 {
+        margin-bottom: 49px;
+        max-width: 460px;
+        font-size: 20px;
+        line-height: 140%;
+    }
+    .hero__caption-4 {
+        font-size: 45px;
+        line-height: 120%;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+    .hero-tube-index-1 {
+        bottom: 40px;
+        left: 80px;
+        max-width: 150px;
+    }
+    .hero-plant-index-1 {
+        bottom: 34px;
+        right: 80px;
+        max-width: 110px;
+    }
+    .products-sides {
+		flex-direction: column;
+	}
+	.products-left-side {
+		width: 100%;
+	}
+	.products-right-side {
+		width: 100%;
+	}
+	.products-item {
+		max-width: 750px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.question-item {
+		width: 20vw;
+		max-width: none;
+	}
+	.products-right-side {
+		margin-left: 0;
+	}
+}
+
+@media (max-width: 991px) { 
+    .plato__subtitle {
+        margin-top: 18px;
+    }
+    .plato-item-1__bot-text {
+        font-size: 2.4vw;
+    }
+    .plato-item-2__bot-text {
+        font-size: 2.4vw;
+    }
+    .plato-item-3__bot-text {
+        font-size: 2.4vw;
+    }
+    .route {
+        margin-top: 68px;
+    }
+    .hero-tube-index-1 {
+        bottom: 40px;
+        left: 4vw;
+        max-width: 140px;
+    }
+    .hero-plant-index-1 {
+        bottom: 34px;
+        right: 4vw;
+        max-width: 110px;
+    }
+    .products-item-decor-line--bot {
+		display: none;
+	}
+
+}
+
+
+@media (max-width: 767px) { 
+    .plato-item-1__top-text {
+        font-size: 11px;
+        margin-left: -50px;
+    }
+    .plato-item-2__top-text {
+        font-size: 11px;
+    }
+    .plato-item-1__bot-text {
+        font-size: 22px;
+        max-width: 276px;
+        margin-left: -138px;
+    }
+    .plato-item-2__bot-text {
+        font-size: 22px;
+        bottom: 32px;
+        max-width: 224px;
+        margin-left: -112px;
+    }
+    .plato-item-3__bot-text {
+        font-size: 22px;
+        max-width: 332px;
+        margin-left: -166px;
+    }
+    .route {
+        margin-top: 58px;
+    }
+    .hero__caption-2 {
+        font-size: 56px;
+    }
+    .hero__description-2 {
+        font-size: 18px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .hero-view-wrp-description {
+        max-width: 301px;
+    }
+    .hero-view__img-2 {
+        max-width: 170px;
+        margin-left: 57px;
+        margin-top: 23px;
+    }
+    .hero-view {
+        padding-right: 8px;
+    }
+    .hero-view-3 {
+        height: 100%;
+        width: calc(100% - 24px);
+    }
+    .hero__description-3 {
+        font-size: 16px;
+    }
+    .hero-view-wrp-description-3 {
+        max-width: 240px;
+    }
+    .hero-view__img-3 {
+        margin-top: 64px;
+    }
+    .hero-view-3 {
+        padding-left: 23px;
+    }
+    .main-slaider__caption-r--a {
+        font-size: 48%;
+        vertical-align: 28%;
+        margin-left: 0px;
+    }
+    .main-slaider__caption-r--gel {
+        font-size: 48%;
+        margin-left: -1px;
+    }
+}
+
+@media (max-width: 622px) { 
+    .plato-ls {
+        width: 100%;
+    }
+    .plato-rs {
+        width: 100%;
+    }
+    .route {
+        margin-top: 34px;
+    }
+    .plato__subtitle {
+        font-size: 14px;
+    }
+    .plato__title {
+        font-size: 16px;
+    }
+    .owl-theme .owl-nav {
+        display: none;
+    }
+    .hero__caption {
+        font-family: 'Playfair';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 125%;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+        max-width: 300px;
+    }
+    .hero-view {
+        padding-top: 41px;
+        padding-left: 16px;
+    }
+    .hero-content-wrp {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .hero__description {
+        font-family: 'Geometria';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+    }
+    .hero__caption {
+        margin-bottom: 12px;
+    }
+    .slider-item-1 {
+        height: 367px;
+    }
+    .hero-bg {
+        background-size: cover;
+    }
+    .hero {
+        margin-top: 22px;
+    }
+    .hero-view-wrp-description-3 {
+        margin-top: 176px;
+        max-width: 100%;
+    }
+    .hero-view__img-3 {
+        margin-top: 0px;
+        position: absolute;
+        top: 156px;
+        left: 0px;
+        max-width: 250px;
+        margin-left: 0px;
+    }
+    .hero__caption-3--bot {
+        text-align: start;
+    }
+    .hero__caption-3 {
+        margin-bottom: 44px;
+    }
+    .hero-bg-3 {
+        background-position: 100% 0%;
+        background-size: 280px;
+        display: none;
+    }
+    .hero__caption-3 {
+        font-size: 40px;
+    }
+    .hero-caption-wrp {
+        max-width: 240px;
+    }
+    .hero__caption-4 {
+        font-size: 6.5vw;
+        margin-bottom: 12px;
+    }
+    .hero__text-4 {
+        max-width: 70vw;
+        font-size: 2.8vw;
+        line-height: 136%;
+        margin-bottom: 29px;
+        z-index: 2;
+    }
+    .hero-tube-index-1 {
+        bottom: 40px;
+        left: 4vw;
+        max-width: 80px;
+        z-index: 1;
+        left: 5vw;
+        bottom: 15px;
+    }
+    .hero-plant-index-1 {
+        bottom: 34px;
+        right: 4vw;
+        max-width: 110px;
+        z-index: 1;
+        max-width: 64px;
+        bottom: 10px;
+        right: 5vw;
+    }
+    .hero-btns {
+        width: 100%;
+        max-width: 225px;
+    }
+    .products-item__wrp-img {
+		max-width: 260px;
+		margin-top: 0;
+    	margin-right: auto;
+    	margin-left: auto;
+		margin-bottom: 22px;
+	}
+	
+	.products-item {
+		flex-direction: column;
+		max-width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		padding-top: 28px;
+		padding-bottom: 48px;
+	}
+	.products-item-desc {
+		max-width: 100%;
+		height: 180px;
+	}
+	.products__text-1 {
+		max-width: 100%;
+	}
+	.products__text-2 {
+		max-width: 100%;
+	}
+}
+
+@media (max-width: 479px) { 
+    .route {
+        margin-top: 26px;
+    }
+    .route-content-wrp {
+        padding-bottom: 22px;
+    }
+    .route-blog__item {
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .route-blog__item:first-child {
+        margin-left: 0px;
+    }
+    .hero-view__img-2 {
+        max-width: 170px;
+        margin-left: 49px;
+        margin-top: 45px;
+    }
+    .hero-bg-2 {
+        background-position: 63%;
+    }
+    .sd {
+        margin-top: 37px;
+        margin-bottom: 22px;
+    }
+    .hero-view-wrp-description-3 {
+        margin-top: 166px;
+    }
+    .hero-caption-wrp {
+        z-index: 4;
+        position: relative;
+    }
+    .hero-bg-3--mob-img {
+        display: block;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        background: url('../images/main-pages/slider-main/hero-bg-3.jpg');
+        width: 258px;
+        height: 256px;
+        background-size: cover;
+    }
+    .hero-view-3 {
+        width: 100%;
+    }
+    .hero__text-4 {
+        max-width: 310px;
+        font-size: 16px;
+        margin-bottom: 46px;
+    }
+    .hero__caption-4 {
+        font-size: 28px;
+        margin-bottom: 30px;    
+    }
+    .hero-tube-index-1 {
+        max-width: 72px;
+    }
+    .hero-btns {
+        max-width: 210px;
+    }
+}
+
+@media (max-width: 420px) { 
+    .hero-btns {
+        max-width: 190px;
+    }
+    .hero-plant-index-1 {
+        right: 6px;
+        max-width: 58px;
+    }
+    .hero-tube-index-1 {
+        left: 12px;
+        max-width: 66px;
+    }
+    .hero__caption-4 {
+        max-width: 250px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .hero__text-4 {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 399px) { 
+    .hero__caption-2 {
+        font-size: 46px;
+    }
+}
+
+
+	
+	
+	
