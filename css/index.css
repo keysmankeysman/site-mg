@@ -785,21 +785,29 @@
 /* } */
 
 .owl-prev { 
-	width: 40px;
-	height: 40px;
-	background-image: url('../images/arrow-white-left.png') !important;
+	width: 60px;
+	height: 60px;
+	background-color: #000000 !important;
+	border-radius: 100% !important;
+    background-size: 22px !important;
+	background-image: url('../images/arrow-main-slider-left.png') !important;
 	background-position: center !important;
 	background-repeat: no-repeat !important;
 	margin: 0px !important;
+
 }
 
 .owl-next { 
-	width: 40px;
-	height: 40px;
-	background-image: url('../images/arrow-white-right.png') !important;
+	width: 60px;
+	height: 60px;
+	background-color: #000000 !important;
+	border-radius: 100% !important;
+    background-size: 22px !important;
+	background-image: url('../images/arrow-main-slider-right.png') !important;
 	background-position: center !important;
 	background-repeat: no-repeat !important;
 	margin: 0px !important;
+
 }
 
 
