@@ -119,6 +119,7 @@
 	display: inline-block;
     position: relative;
 	margin: 0 auto;
+	/* margin-left: 28px; */
 }
 
 .plato-item__price::after {
@@ -252,6 +253,12 @@
 }
 
 @media (max-width: 479px) { 
+	.plato-item__price {
+		font-size: 16px;
+		padding-top: 10px;
+		/* margin-left: 24px; */
+	}
+	
     .hero__caption {
         font-size: 22px;
 		margin-bottom: 28px;

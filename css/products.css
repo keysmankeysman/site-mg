@@ -584,6 +584,7 @@
 	display: inline-block;
     position: relative;
 	margin: 0 auto;
+	padding-top: 18px;
 }
 
 .plato-item__price::after {

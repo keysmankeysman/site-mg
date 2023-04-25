@@ -564,6 +564,11 @@
 }
 
 @media (max-width: 479px) { 
+	.plato-item__price {
+		font-size: 16px;
+		padding-top: 10px;
+	}
+
 	.plato-img-2 {
 		opacity: 1 !important;
 		z-index: 3 !important;
