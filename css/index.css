@@ -239,6 +239,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	align-items: flex-start;
 }
 
 .solo-btn-content {
@@ -253,6 +254,7 @@
 	flex-wrap: wrap;
 	justify-content: space-between;
     width: 49.5%;
+	align-items: flex-start;
 	
 }
 
@@ -261,6 +263,7 @@
 	flex-wrap: wrap;
 	justify-content: space-between;
     width: 49.5%;
+	align-items: flex-start;
 }
 
 .plato-ls-1 {
