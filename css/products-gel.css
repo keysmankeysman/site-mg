@@ -628,9 +628,20 @@
     background: black;
 }
 
+.where-buy-descr-bot {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    color: #b4b4b4;
+	text-align: center;
+    margin-top: 34px;
+}
+
 .where-buy-slider .owl-stage-outer .owl-stage {
 	display: flex !important;
-	align-items: center;
+	align-items: bottom;
 }
 
 .where-buy-slider .owl-stage-outer .owl-stage .owl-item {
@@ -651,7 +662,7 @@
 	transition:opacity .8s; 
 	position: absolute;
 	left: 0;
-	top: 0;
+	bottom: 46px;
 	opacity: 0;
 }
 
